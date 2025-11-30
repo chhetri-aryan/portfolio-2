@@ -106,7 +106,7 @@ export default function Hero() {
               }}
             >
               <h2 className='text-xl sm:text-2xl font-semibold text-foreground mb-3'>
-                Software Engineer & AI/ML Enthusiast``
+                Software Engineer & AI/ML Enthusiast
               </h2>
               <p className='text-lg text-muted-foreground leading-relaxed'>
                 Building reliable, user-focused applications and mastering
